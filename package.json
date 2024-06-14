@@ -1,6 +1,7 @@
 {
   "name": "@gomarky/string-replace-webpack-plugin",
   "version": "0.1.3",
+  "private": false,
   "author": "Andrew Slesarenko @TeodorDre",
   "description": "Replace string tokens in the contents of a file.",
   "peerDependencies": {
